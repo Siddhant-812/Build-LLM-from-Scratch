@@ -1,0 +1,13 @@
+# Core deep learning library
+torch
+
+# For downloading datasets from URLs
+requests
+
+# For the interactive web application
+streamlit
+pandas
+
+# For advanced finetuning
+datasets
+bitsandbytes
