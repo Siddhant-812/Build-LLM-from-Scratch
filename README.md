@@ -50,8 +50,8 @@ First, clone the repository and install the required Python libraries. It is hig
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <repo-url>
+cd <repo-folder>
 
 # Create and activate a virtual environment (optional but recommended)
 python -m venv venv
